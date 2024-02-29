@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="de-CH" original="Base Application">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 1001504869 - NamedType 1370456556" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are now in the %1 journal.</source>
+          <target state="translated">Sie arbeiten im Erf.-Journal %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Res. Jnl.-Post+Print - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001504869 - NamedType 2476940767" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be filtered when posting recurring journals</source>
+          <target state="translated">kann nicht gefiltert werden, wenn wiederkehrende Erfassungsjournale gebucht werden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Res. Jnl.-Post+Print - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001504869 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the journal lines and print the posting report?</source>
+          <target state="translated">Möchten Sie die Erfassungsjournalzeilen buchen und den Buchungsbericht drucken?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Res. Jnl.-Post+Print - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001504869 - NamedType 732759939" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted. </source>
+          <target state="translated">Die Erfassungsjournalzeilen sind gebucht worden. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Res. Jnl.-Post+Print - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1001504869 - NamedType 95063322" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted.</source>
+          <target state="translated">Die Erfassungsjournalzeilen sind gebucht worden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Res. Jnl.-Post+Print - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004508017 - NamedType 1972287712" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Entry is in a %1 VAT Return period. Are you sure you want to make this change?</source>
+          <target state="translated">MWST-Posten befindet sich in einer %1 MWST-Rückgabeperiode. Möchten Sie diese Änderung wirklich durchführen?</target>
+          <note from="Developer" annotates="general" priority="2">%1 - The status of the VAT return.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Reporting Date Mgt - NamedType VATReturnFromWarningMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004508017 - NamedType 2055030713" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The VAT Date is not within your range of allowed posting dates.</source>
+          <target state="translated">Das MWST-Datum liegt nicht innerhalb des zugelassenen Buchungszeitraums.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Reporting Date Mgt - NamedType VATDateNotAllowedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004508017 - NamedType 2337961986" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Return for the chosen period is already %1. Are you sure you want to make this change?</source>
+          <target state="translated">Die MWST-Rückgabe für die ausgewählte Periode ist bereits %1. Möchten Sie diese Änderung wirklich durchführen?</target>
+          <note from="Developer" annotates="general" priority="2">%1 - The status of the VAT return.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Reporting Date Mgt - NamedType VATReturnStatusWarningMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004508017 - NamedType 2353570221" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Return Period is closed for the selected date. Please select another date.</source>
+          <target state="translated">Die Periode für die MWST-Rückgabe ist für das ausgewählte Datum geschlossen. Wählen Sie ein anderes Datum aus.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Reporting Date Mgt - NamedType VATReturnPeriodClosedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1004508017 - NamedType 34555324" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>VAT Entry is in a closed VAT Return Period and can not be changed.</source>
+          <target state="translated">Der MWST-Posten befindet sich in einer geschlossenen MWST-Rückgabeperiode und kann nicht geändert werden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit VAT Reporting Date Mgt - NamedType VATReturnFromClosedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 101124474 - NamedType 1419748705" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field %1 must be specified.</source>
+          <target state="translated">Feld %1 muss festgelegt werden.</target>
+          <note from="Developer" annotates="general" priority="2">%1=field name, e.g. Post Code.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SEPA CT-Fill Export Buffer - NamedType FieldIsBlankErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 101124474 - NamedType 158225963" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All lines must have the same bank account as the balancing account.</source>
+          <target state="translated">Alle Zeilen müssen dasselbe Bankkonto als Gegenkonto aufweisen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SEPA CT-Fill Export Buffer - NamedType SameBankErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 101124474 - NamedType 2662926362" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2</source>
+          <target state="translated">%1 %2</target>
+          <note from="Developer" annotates="general" priority="2">%1=Document type, %2=Document no., e.g. Invoice A123</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SEPA CT-Fill Export Buffer - NamedType RemitMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 101124474 - NamedType 4134082808" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The file export has one or more errors.\\For each line to be exported, resolve the errors displayed to the right and then try to export again.</source>
+          <target state="translated">Der Dateiexport weist mindestens einen Fehler auf.\\Beheben Sie für jede zu exportierende Zeile die Fehler, die rechts angezeigt werden, und versuchen Sie erneut, einen Export durchzuführen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit SEPA CT-Fill Export Buffer - NamedType HasErrorsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1014745825 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 : %2.</source>
+          <target state="translated">%1 : %2.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Email Logging Context Adapter - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1017979807 - NamedType 2712918880" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the order?</source>
+          <target state="translated">Wollen Sie den Auftrag buchen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Phys. Invt. Order-Post (Y/N</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1019999452 - NamedType 1124327239" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create contact. - %1</source>
+          <target state="translated">Erstellt einen Kontakt – %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = The contact</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Contact Sync. Helper - NamedType CreateNavContactTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1019999452 - NamedType 2130712442" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Exchange Country/Region cannot be found in your company.</source>
+          <target state="translated">Land/Region für Exchange wurde in Ihrem Unternehmen nicht gefunden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Contact Sync. Helper - NamedType CountryRegionNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1019999452 - NamedType 2692194744" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed to create the new exchange contact.</source>
+          <target state="translated">Fehler beim Erstellen des neuen Exchange-Kontakts.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Contact Sync. Helper - NamedType CreateExchangeContactFailedTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1019999452 - NamedType 3245022122" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The Exchange Company Name is not unique in your company.</source>
+          <target state="translated">Der Exchange-Unternehmensname ist in Ihrem Unternehmen nicht eindeutig.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Contact Sync. Helper - NamedType UniqueCompanyNameErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1019999452 - NamedType 331659833" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create exchange contact.</source>
+          <target state="translated">Exchange-Kontakt erstellen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Contact Sync. Helper - NamedType CreateExchangeContactTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025062456 - NamedType 3644294068" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fixed Asset Acquisition</source>
+          <target state="translated">Anlage – Anschaffung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Fixed Asset Acquisition Wizard - NamedType SimpleJnlDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1025062456 - NamedType 485602434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AUTOMATIC</source>
+          <target state="translated">AUTOM.</target>
+          <note from="Developer" annotates="general" priority="2">Translate normally and keep the upper case</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Fixed Asset Acquisition Wizard - NamedType GenJournalBatchNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027393520 - NamedType 81203487" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot find job number %1, job task number %2, line number %3.</source>
+          <target state="translated">Die Projektnummer %1, Projektaufgabennummer %2, Zeilennummer %3 kann nicht gefunden werden.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Job No; %2 = Job Task No; %3 = Job Planning Line</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Office Jobs Handler - NamedType UnableToFindJobErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 151020264" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity available to pick is not sufficient to fulfill shipping advise %1 for transfer line with Document No. %2, Line No. %3.</source>
+          <target state="translated">Die zur Verfügung stehende Kommissioniermenge reicht nicht aus, um die Versandanweisung '%1' für die Umlagerungszeile mit der Belegnr. %2 und der Zeilennr. %3 zu erfüllen.</target>
+          <note from="Developer" annotates="general" priority="2">%1=Shipping advise no., %2=Document No., %3=Line No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType QtyNotSufficientOnTransferErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 1794134907" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is nothing to handle.</source>
+          <target state="translated">Es gibt nichts zu bewegen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType NothingToHandleErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 2028491152" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 activity number %2 has been created.</source>
+          <target state="translated">%1 mit der Aktivitätsnummer %2 wurde erstellt.</target>
+          <note from="Developer" annotates="general" priority="2">%1=Warehouse Activity Type,%2=Warehouse Activity number</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType ActivityCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 2817423496" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 activity number %2 has been created.\\Item tracking lines cannot be fully applied.</source>
+          <target state="translated">%1 Aktivitätsnummer %2 wurde erstellt.\\Artikeltrackingzeilen können nicht vollständig ausgeglichen werden.</target>
+          <note from="Developer" annotates="general" priority="2">%1=Warehouse Activity Type,%2=Warehouse Activity No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType TrackingNotFullyAppliedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 310414649" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Quantity available to pick is not sufficient to fulfill shipping advise %1 for sales line with Document Type %2, Document No. %3, Line No. %4.</source>
+          <target state="translated">Die zur Verfügung stehende Kommissioniermenge reicht nicht aus, um die Versandanweisung '%1' für die Verkaufszeile mit der Belegart '%2', der Belegnr. %3 und der Zeilennr. %4 zu erfüllen.</target>
+          <note from="Developer" annotates="general" priority="2">%1=Shipping advise no., %2=Document Type, %3=Document No., %4=Line No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType QtyNotSufficientOnSalesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1027410229 - NamedType 4176003159" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to create Inventory Movement?</source>
+          <target state="translated">Möchten Sie eine Lagerbestandsumlagerung erstellen?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Create Inventory Pick/Movement - NamedType CreateInvtMvmtQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1003143949" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up your Microsoft Entra ID accounts</source>
+          <target state="translated">Konten mit Microsoft Entra-ID einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AzureAdSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1005485563" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up a payment approval workflow</source>
+          <target state="translated">Zahlungsgenehmigungsworkflow einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PmtJnlAppWorkflowShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1088471865" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with posting groups</source>
+          <target state="translated">Mit Buchungsgruppen arbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType WorkWithPostingGroupsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1171508821" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create a job</source>
+          <target state="translated">Projekt erstellen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CreateJobTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1176998621" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up approval workflows</source>
+          <target state="translated">Genehmigungsworkflows einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ApprovalWorkflowSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1212040593" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect to Dataverse</source>
+          <target state="translated">Mit Dataverse verbinden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CDSConnectionSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1396304388" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Track the time used on jobs, register absences, or create simple time registrations for team members on any device.</source>
+          <target state="translated">Verfolgt die für Projekte verwendete Zeit, registriert Abwesenheiten oder erstellt einfache Zeitregistrierungen für Teammitglieder auf jedem Gerät.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupTimeSheetsDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1458834132" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create approval workflows that automatically notify an approver when a user tries to create or change a customer.</source>
+          <target state="translated">Erstellen Sie Genehmigungsworkflows, die einen Genehmiger automatisch benachrichtigen, wenn ein Benutzer versucht, eine Debitorenkarte zu erstellen oder zu ändern.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomerAppWorkflowDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1466816563" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Access data with Microsoft 365 licenses</source>
+          <target state="translated">Auf Daten mit Microsoft 365-Lizenzen zugreifen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType M365LicenseSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1506756860" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configure the Cash Flow Forecast chart</source>
+          <target state="translated">Cashflowplanungsdiagramm konfigurieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CashFlowForecastTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1536988173" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customize document layouts</source>
+          <target state="translated">Beleglayouts anpassen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomizeDocumentLayoutsTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1584035655" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Analyze data using account schedules</source>
+          <target state="translated">Daten mit Kontenschemas analysieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AnalyzeDataUsingAccSchedulesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1627391359" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register an Microsoft Entra app so that you can use Power BI, Power Automate, Exchange, and other Azure services from on-premises.</source>
+          <target state="translated">Registrieren Sie eine Microsoft Entra-App, damit Sie Power BI, Power Automate, Exchange und andere Azure-Dienste lokal verwenden können.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AzureAdSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1653422014" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Import existing data to Business Central from your former system.</source>
+          <target state="translated">Importieren Sie vorhandene Daten von Ihrem vorherigen System in Business Central.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType DataMigrationDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1710881914" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up a customer approval workflow</source>
+          <target state="translated">Debitorengenehmigungsworkflow einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomerAppWorkflowTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1742929042" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the accounts to use for the Cash Flow Forecast chart. The guide also helps you specify information about when you pay taxes, and whether to turn on Azure AI.</source>
+          <target state="translated">Bestimmen Sie die Konten, die für das Cashflowplanungsdiagramm verwendet werden sollen. Die Anleitung hilft Ihnen auch, Informationen darüber anzugeben, wann Sie Steuern zahlen und ob Sie Azure-KI aktivieren.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CashFlowForecastDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1877861921" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up exchange rates</source>
+          <target state="translated">Wechselkurse einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupExchangeRatesShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1967537504" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up customer approval workflow</source>
+          <target state="translated">Debitorengenehmigungsworkflow einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomerAppWorkflowShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 1990691173" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect your Dynamics 365 services for better insights. Data is exchanged between the apps for better productivity.</source>
+          <target state="translated">Verbinden Sie Ihre Dynamics 365-Dienste für bessere Erkenntnisse. Durch den Datenaustausch zwischen den Apps wird die Produktivität gesteigert.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CRMConnectionSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2007837631" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up a connection to Dataverse</source>
+          <target state="translated">Verbindung zu Dataverse einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CDSConnectionSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 207191798" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with Excel</source>
+          <target state="translated">Mit Excel arbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VideoWorkwithExcelNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2074073612" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power Automate Environment</source>
+          <target state="translated">Power Automate-Umgebung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PowerAutomateEnvironmentTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2098794769" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update users</source>
+          <target state="translated">Benutzer aktualisieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType UpdateUsersFromOfficeShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2106768191" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fetch users from Microsoft 365</source>
+          <target state="translated">Benutzer aus Microsoft 365 abrufen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType UpdateUsersFromOfficeTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2111412997" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Access data with Microsoft 365 licenses</source>
+          <target state="translated">Auf Daten mit Microsoft 365-Lizenzen zugreifen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType M365LicenseSetupTitleTxtShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2122779225" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teams App Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung von Teams-App</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType TeamsAppCentralizedDeploymentTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2252131319" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Co-author documents</source>
+          <target state="translated">Belege gemeinsam erstellen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OneDriveSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2262314883" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with Power BI</source>
+          <target state="translated">Mit Power BI arbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType HelpWorkwithPowerBINameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 226806892" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This company is already set up. To change settings for it, go to the Company Information page.\\Go there now?</source>
+          <target state="translated">Dieses Unternehmen ist bereits eingerichtet. Zum Ändern der Einstellungen wechseln Sie zur Seite „Firmendaten“.\\Jetzt wechseln?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CompanyAlreadySetUpQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2343836258" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Override the default setting and choose a specific Power Automate environment to be used by Business Central.</source>
+          <target state="translated">Überschreiben Sie die Standardeinstellung, und wählen Sie eine bestimmte Power Automate-Umgebung, die von Business Central verwendet werden soll.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PowerAutomateEnvironmentDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2358183457" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up Value-Added Tax (VAT)</source>
+          <target state="translated">Mehrwertsteuer (MWST) einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VATSetupWizardTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 239383146" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invite your external accountant to the company</source>
+          <target state="translated">Externen Buchhalter zum Unternehmen einladen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType InviteExternalAccountantTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2415596909" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>One or more email accounts are already set up. To change settings for email, go to the Email Accounts page.\\Go there now?</source>
+          <target state="translated">Mindestens ein E-Mail-Konto ist bereits eingerichtet. Wechseln Sie zur Seite „E-Mail-Konten“, um die E-Mail-Einstellungen zu ändern.\\Jetzt dorthin wechseln?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType EmailAlreadySetUpQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2457899505" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send a link to your external accountant so that they can access your Business Central and manage your books from a dedicated home page.</source>
+          <target state="translated">Senden Sie einen Link an Ihren externen Buchhalter, damit dieser auf Ihr Business Central zugreifen und Ihre Bücher von einer dedizierten Homepage aus verwalten kann.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType InviteExternalAccountantDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2490691667" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consolidate companies</source>
+          <target state="translated">Unternehmen konsolidieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupConsolidationReportingShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2545443887" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up exchange rates service</source>
+          <target state="translated">Wechselkursdienst einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupExchangeRatesTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2578836243" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deploy the Business Central app for Teams for specific users, groups, or the entire organization.</source>
+          <target state="translated">Stellen Sie die Business Central-App für Teams für bestimmte Benutzer, Gruppen oder die gesamte Organisation bereit.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType TeamsAppCentralizedDeploymentDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2593445749" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Getting Started</source>
+          <target state="translated">Erste Schritte</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType GettingStartedTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2604678812" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with VAT</source>
+          <target state="translated">Arbeiten mit MWST</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType WorkWithVatTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2606656203" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customize document layouts</source>
+          <target state="translated">Beleglayouts anpassen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomizeDocumentLayoutsShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2626223567" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create approval workflows that automatically notify an approver when a user sends payment journal lines for approval.</source>
+          <target state="translated">Erstellen Sie Genehmigungsworkflows, die einen Genehmiger automatisch benachrichtigen, wenn ein Benutzer Erfassungsjournalzeilen zur Genehmigung sendet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PmtJnlAppWorkflowDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2659251085" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Add-in Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung für Outlook-Add-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OutlookAddinCentralizedSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 272917824" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Learn about Dynamics 365</source>
+          <target state="translated">Informationen zu Dynamics 365</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VideoIntrotoDynamics365forFinancialsNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2750910923" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up Microsoft Entra ID</source>
+          <target state="translated">Microsoft Entra-ID einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AzureAdSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 2906592313" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect your files to the cloud</source>
+          <target state="translated">Verbinden Sie Ihre Dateien mit der Cloud</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OneDriveSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3020877767" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up an item approval workflow</source>
+          <target state="translated">Artikelgenehmigungsworkflow einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ItemAppWorkflowShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3120645399" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teams App Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung von Teams-App</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType TeamsAppCentralizedDeploymentShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 314059264" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Migrate business data</source>
+          <target state="translated">Geschäftsdaten migrieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType DataMigrationTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3148755741" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up an approval workflow to manage payments</source>
+          <target state="translated">Genehmigungsworkflow zum Verwalten von Zahlungen einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PmtJnlAppWorkflowTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3150406463" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up VAT</source>
+          <target state="translated">MWST einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VATSetupWizardShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3159686157" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Settings</source>
+          <target state="translated">Karteneinstellungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CardSettingsShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3174133350" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Power Automate Environment</source>
+          <target state="translated">Power Automate-Umgebung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType PowerAutomateEnvironmentShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3197239485" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get the latest information about users and licenses for Business Central from Microsoft 365.</source>
+          <target state="translated">Rufen Sie aktuelle Informationen zu Benutzern und Lizenzen für Business Central aus Microsoft 365 ab.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType UpdateUsersFromOfficeDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3330780621" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Add-in Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung für Excel-Add-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ExcelAddinCentralizedDeploymentShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3330885659" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up VAT to specify the rates to use to calculate tax amounts based on who you sell to, who you buy from, what you sell, and what you buy.</source>
+          <target state="translated">Richten Sie die MWST ein, um die Sätze anzugeben, die verwendet werden sollen, um Steuerbeträge basierend darauf zu berechnen, an wen Sie verkaufen, von wem Sie kaufen, was Sie verkaufen und was Sie kaufen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VATSetupWizardDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3404732475" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up approval workflows</source>
+          <target state="translated">Genehmigungsworkflows einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ApprovalWorkflowSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3474489709" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Additional Resources</source>
+          <target state="translated">Zusätzliche Ressourcen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AdditionalReourcesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3480866461" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect to a payment service</source>
+          <target state="translated">Mit einem Zahlungsverkehr verbinden</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupPaymentServicesTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3489986557" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up outgoing email</source>
+          <target state="translated">Ausgehende E-Mail einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType EmailSetupTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3510249706" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Up Time Sheets</source>
+          <target state="translated">Arbeitszeittabellen einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupTimeSheetsTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3597955383" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with locations and transfer orders</source>
+          <target state="translated">Mit Lagerorten und Umlagerungsaufträgen arbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType WorkWithLocAndTransfOrdTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3642487925" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Consolidations</source>
+          <target state="translated">Prozesskonsolidierungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupConsolidationReportingTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3675332913" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deploy Outlook add-in for specific users, groups, or the entire organization.</source>
+          <target state="translated">Stellen Sie das Outlook-Add-In für bestimmte Benutzer, Gruppen oder die gesamte Organisation bereit.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OutlookAddinCentralizedSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3705721769" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up an approval workflow to manage inventory items</source>
+          <target state="translated">Genehmigungsworkflow zum Verwalten von Lagerartikeln einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ItemAppWorkflowTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3720114161" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Deploy the Excel add-in for specific users, groups, or the entire organization.</source>
+          <target state="translated">Stellen Sie das Excel-Add-In für bestimmte Benutzer, Gruppen oder die gesamte Organisation bereit.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ExcelAddinCentralizedDeploymentDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3721960634" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Migrate data</source>
+          <target state="translated">Daten migrieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType DataMigrationShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 373425897" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unlock data across your organization by setting up access to Business Central with Microsoft 365 licenses</source>
+          <target state="translated">Daten in Ihrer Organisation entsperren, indem Sie den Zugriff auf Business Central mit Microsoft 365-Lizenzen einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType M365LicenseSetupTitleTxtDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3765884706" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Azure AI with Dynamics 365</source>
+          <target state="translated">Azure AI mit Dynamics 365</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VideoAzureAIforFinancialsNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3779844683" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outgoing email</source>
+          <target state="translated">Ausgehende E-Mail</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType EmailSetupShortTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3811667963" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel Add-in Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung für Excel-Add-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ExcelAddinCentralizedDeploymentTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3826710361" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Install extensions to add features and integrations</source>
+          <target state="translated">Erweiterungen zum Hinzufügen von Funktionen und Integrationen installieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VideoWorkwithextensionsNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3855719776" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up the email accounts your business will use to send out invoices and other documents. You can use a Microsoft 365 account or another provider.</source>
+          <target state="translated">Richten Sie die E-Mail-Konten ein, die Ihr Unternehmen zum Senden von Rechnungen und anderen Belegen verwenden wird. Sie können ein Microsoft 365-Konto oder einen anderen Anbieter verwenden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType EmailAccountSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3861754987" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Work with general journals</source>
+          <target state="translated">Mit Fibu Erfassungsjournalen arbeiten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType VideoWorkwithgeneraljournalsNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 3930595727" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create approval workflows that automatically notify an approver when a user tries to create or change certain values, such as an amount above a specified limit.</source>
+          <target state="translated">Erstellen Sie Genehmigungsworkflows, damit ein Genehmiger automatisch benachrichtigt wird, wenn ein Benutzer versucht, bestimmte Werte zu erstellen oder zu ändern, wie etwa einen Betrag über dem festgelegten Grenzwert.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ApprovalWorkflowSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4025638681" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>https://go.microsoft.com/fwlink/?linkid=2166666</source>
+          <target state="translated">https://go.microsoft.com/fwlink/?linkid=2166666</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupTimeSheetsHelpTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 405240118" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up cash flow forecasting</source>
+          <target state="translated">Cashflowplanung einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CashFlowForecastShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4053225401" maxwidth="32" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect to %1</source>
+          <target state="translated">Mit %1 verbinden</target>
+          <note from="Developer" annotates="general" priority="2">%1 = CRM product name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CRMConnectionSetupShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4056790395" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up payment services</source>
+          <target state="translated">Zahlungsverkehr einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupPaymentServicesShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4115839035" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Outlook Add-in Centralized Deployment</source>
+          <target state="translated">Zentrale Bereitstellung für Outlook-Add-In</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OutlookAddinCentralizedSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4128954608" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invite your external accountant</source>
+          <target state="translated">Externen Buchhalter einladen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType InviteExternalAccountantShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4142547824" maxwidth="50" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up Time Sheets</source>
+          <target state="translated">Arbeitszeittabellen einrichten</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupTimeSheetsShortTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4197164775" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Consolidate the general ledger entries of two or more separate companies (subsidiaries) into a consolidated company.</source>
+          <target state="translated">Konsolidieren Sie die Fibuposten von zwei oder mehr getrennten Unternehmen (Niederlassungen) in ein konsolidiertes Unternehmen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupConsolidationReportingDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 4202633587" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configure which features can work with OneDrive for Business to open files in the browser, share with others, or co-author online.</source>
+          <target state="translated">Konfigurieren Sie, welche Funktionen mit OneDrive for Business arbeiten können, um Dateien im Browser zu öffnen, mit anderen zu teilen oder online gemeinsam zu erstellen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType OneDriveSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 505154468" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Introduction</source>
+          <target state="translated">Einführung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType IntroductionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 66796654" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Make invoices and other documents look right for your business.</source>
+          <target state="translated">Gestalten Sie Rechnungen und andere Belege passend zu Ihrem Unternehmen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CustomizeDocumentLayoutsDescTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 745646509" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View or update currencies and exchange rates if you buy or sell in currencies other than your local currency or record G/L transactions in different currencies.</source>
+          <target state="translated">Hier können Sie Währungen und Wechselkurse anzeigen oder aktualisieren, wenn Sie in anderen Währungen als Ihrer Mandantenwährung kaufen oder verkaufen oder Sachkontotransaktionen in verschiedenen Währungen erfassen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupExchangeRatesDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 76136783" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect to a payment service so that your customers can pay you electronically.</source>
+          <target state="translated">Stellen Sie eine Verbindung zu einem Zahlungsverkehr her, damit Ihre Debitoren elektronisch bezahlen können.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType SetupPaymentServicesDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 770199870" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Access all features</source>
+          <target state="translated">Auf alle Funktionen zugreifen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType AccessAllFeaturesTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 866124711" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set up a connection to %1</source>
+          <target state="translated">Verbindung zu %1 einrichten</target>
+          <note from="Developer" annotates="general" priority="2">%1 = CRM product name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CRMConnectionSetupTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 873831857" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Configure security settings that determine whether content is summarized and displayed directly on any compact card.</source>
+          <target state="translated">Konfigurieren Sie Sicherheitseinstellungen, die bestimmen, ob der Inhalt zusammengefasst und direkt auf einer beliebigen kompakten Karte angezeigt wird.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CardSettingsDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 886671677" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connect to Dataverse for better insights across business applications. Data will flow between the apps for better productivity.</source>
+          <target state="translated">Stellen Sie eine Verbindung zu Dataverse her, um bessere Erkenntnisse aus allen Geschäftsanwendungen zu gewinnen. Durch den Datenfluss zwischen den Apps wird die Produktivität gesteigert.</target>
+          <note from="Developer" annotates="general" priority="2">Dataverse is the name of a Microsoft Service and should not be translated</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CDSConnectionSetupDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 939800995" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create approval workflows that automatically notify an approver when a user tries to create or change an item.</source>
+          <target state="translated">Erstellen Sie Genehmigungsworkflows, die einen Genehmiger automatisch benachrichtigen, wenn ein Benutzer versucht, eine Artikelkarte zu erstellen oder zu ändern.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType ItemAppWorkflowDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1030719364 - NamedType 953179323" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Card Settings</source>
+          <target state="translated">Karteneinstellungen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Assisted Setup Subscribers - NamedType CardSettingsTitleTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1033208163 - NamedType 3134618258" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>We failed to authenticate with Power BI. Try to sign out and in again. This problem typically happens if you no longer have a license for Power BI or if you just changed your email or password.</source>
+          <target state="translated">Fehler beim Authentifizieren mit Power BI. Versuchen Sie, sich abzumelden und erneut anzumelden. Dieses Problem tritt in der Regel auf, wenn Sie nicht mehr über eine Lizenz für Power BI verfügen oder Ihre E-Mail oder Ihr Kennwort geändert haben.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Power BI Embed Helper - NamedType FailedAuthErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1033208163 - NamedType 869603105" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The response for the Power BI report page was invalid: %1.</source>
+          <target state="translated">Die Antwort für die Power BI-Berichtsseite war ungültig: %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = A string that represents an invalid Json object.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Power BI Embed Helper - NamedType InvalidJsonResponseErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 1370456556" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor               #2##################\</source>
+          <target state="translated">Kreditor              #2##################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 2008153173" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vendor Item          #3##################\</source>
+          <target state="translated">Kred.-Artikel         #3##################\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text006</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 2476940767" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 already exists.</source>
+          <target state="translated">Artikel %1 ist bereits vorhanden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 2645849790" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.             #4##################</source>
+          <target state="translated">Artikelnr.            #4##################</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text007</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is created.</source>
+          <target state="translated">Artikel %1 wurde erstellt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 3752334001" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You cannot enter a catalog item on %1.</source>
+          <target state="translated">Sie können für %1 keinen Katalogartikel eingeben.</target>
+          <note from="Developer" annotates="general" priority="2">%1=Sales Line document type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 732759939" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Manufacturer Code    #1####\</source>
+          <target state="translated">Herstellercode        #1####\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1040012903 - NamedType 95063322" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Creating item card for catalog item\</source>
+          <target state="translated">Artikelkarte für Katalogartikel wird erstellt\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Catalog Item Management - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 1129412614" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The consolidation period %1 .. %2 is outside the fiscal year %3 .. %4 in the consolidation company. Do you want to continue?</source>
+          <target state="translated">Die Konsolidierungsperiode %1 .. %2 liegt ausserhalb des Geschäftsjahres %3 .. %4 im Konsolidierungsmandanten. Möchten Sie fortfahren?</target>
+          <note from="Developer" annotates="general" priority="2">%1 - Starting date, %2 - Ending date, %3 - Starting date, %4 - Ending date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType ConsolidationPeriodOutsideFiscalYearErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 1346332454" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify a No. Series in the General Journal Batch %1.</source>
+          <target state="translated">Geben Sie im Fibu Erf.-Journal %1 eine Nummernserie an.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - The code of the general journal batch</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType PleaseSpecifyNoSeriesErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 1739700364" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>"%1" is mandatory in General Ledger Setup, but it is not specified.</source>
+          <target state="translated">„%1“ ist in der Finanzbuchhaltungseinrichtung obligatorisch, wurde aber nicht angegeben.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - Field name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType PleaseSpecifyErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 2195091303" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The business unit %1 has the date range %2 .. %3 configured. Do you want to consolidate the period %4 .. %5?</source>
+          <target state="translated">Der Konzernmandant %1 hat den Datumsbereich %2 .. %3 konfiguriert. Möchten Sie die Periode %4 .. %5 konsolidieren?</target>
+          <note from="Developer" annotates="general" priority="2">%1 - Code of the business unit, %2 - starting date, %3 - ending date, %4 - starting date, %5 - ending date</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType ConfirmConsolidationDatesForBusinessUnitMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 2213302955" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum number of days in consolidation is %1.</source>
+          <target state="translated">Die maximale Anzahl der Tage in der Konsolidierung beträgt %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - The maximum number of days in consolidation</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType MaxNumberOfDaysInConsolidationErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 2525069963" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please specify a document number for the consolidation journal.</source>
+          <target state="translated">Geben Sie eine Belegnummer für das Konsolidierungs Erf.-Journal an.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType PleaseSpecifyDocNoErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 269466692" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must create a new fiscal year for the consolidation company.</source>
+          <target state="translated">Sie müssen für den Konsolidierungsmandanten ein neues Geschäftsjahr einrichten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType YouMustCreateFiscalYearErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 3575736934" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The starting date or the ending date is a closing date, and they are not the same.</source>
+          <target state="translated">Das Startdatum oder das Enddatum ist ein Ultimodatum, und sie sind nicht identisch.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType ClosingDateErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 3773659661" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You must specify the starting date and the ending date for the consolidation.</source>
+          <target state="translated">Sie müssen das Startdatum und das Enddatum für die Konsolidierung angeben.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType EmptyDateRangeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 3901290689" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The ending date is earlier than the starting date for the business unit %1.</source>
+          <target state="translated">Das Enddatum liegt vor dem Startdatum für den Konzernmandanten %1.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - The code of the business unit</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType BusinessUnitStartingDateLaterErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 4208977742" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The business units %1 have not been granted access. Select them and use the action "Grant Access" to authenticate into these companies.</source>
+          <target state="translated">Den Konzernmandanten %1 wurde kein Zugriff gewährt. Wählen Sie diese aus, und verwenden Sie die Aktion „Zugriff gewähren“, um sich bei diesen Mandanten zu authentifizieren.</target>
+          <note from="Developer" annotates="general" priority="2">%1 comma separated names of the business units' codes</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType FollowingCompaniesHaveNoAccessErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1043832416 - NamedType 961554611" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select at least one business unit to consolidate.</source>
+          <target state="translated">Wählen Sie mindestens einen zu konsolidierenden Konzernmandanten aus.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Consolidate Business Units - NamedType SelectOneBusinessUnitErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1048620839 - NamedType 581419275" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Parent Source No. must be blank for Contact source type.</source>
+          <target state="translated">Übergeordnete Herkunftsnummer muss für Quelltyp „Kontakt“ leer sein.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Price Source - Contact - NamedType ParentErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1051876835 - NamedType 2801859146" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Applying configuration package failed.</source>
+          <target state="translated">Fehler beim Anwenden des Konfigurationspakets.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Automation - Failure RSPackage - NamedType ApplyErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1058129164 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>STANDARD</source>
+          <target state="translated">STANDARD</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CostJnlManagement - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1058129164 - NamedType 3752334001" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Standard Template</source>
+          <target state="translated">Standardvorlage</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CostJnlManagement - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1058129164 - NamedType 732759939" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Default Batch</source>
+          <target state="translated">Standardmässige Stapelverarbeitung</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CostJnlManagement - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1058129164 - NamedType 95063322" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DEFAULT</source>
+          <target state="translated">STANDARD</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit CostJnlManagement - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1071529064 - NamedType 1905695453" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 is not registered in your Azure Active Directory tenant.</source>
+          <target state="translated">%1 ist nicht in Ihrem Azure Active Directory-Tenant registriert.</target>
+          <note from="Developer" annotates="general" priority="2">%1 - product name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Azure AD Mgt. - NamedType AzureADNotSetupErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072710964 - NamedType 1282992999" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>This notification is used when the Payment Application page is opening slowly. It can be used to turn off automatic suggestions, which will help the page open more quickly.</source>
+          <target state="translated">Diese Benachrichtigung wird verwendet, wenn die Seite „Zahlungsausgleich“ zu langsam geöffnet wird. Sie kann zum Deaktivieren der automatischen Vorschläge verwendet werden, wodurch die Seite schneller geöffnet wird.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Get Bank Stmt. Line Candidates - NamedType DisableAutomaticSuggestionsNotificationDescriptionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072710964 - NamedType 2689165936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Reconciliation - Disable Automatic Suggestions</source>
+          <target state="translated">Zahlungsabstimmung – Automatische Vorschläge deaktivieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Get Bank Stmt. Line Candidates - NamedType DisableAutomaticSuggestionsNotificationNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072710964 - NamedType 322882978" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Turn Off Automatic Suggestions</source>
+          <target state="translated">Automatische Vorschläge deaktivieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Get Bank Stmt. Line Candidates - NamedType DisableAutomaticSuggestionsTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072710964 - NamedType 3450555774" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sorting the list based on the match probability is causing this page to open slowly. For faster performance, you can turn off autosuggestions, and then use the Suggest Entries action on the Payment Application page instead.</source>
+          <target state="translated">Das Sortieren der Liste auf Grundlage der Übereinstimmungswahrscheinlichkeit führt dazu, dass diese Seite langsam geöffnet wird. Für eine schnellere Leistung deaktivieren Sie automatische Vorschläge, und verwenden Sie stattdessen die Aktion „Posten vorschlagen“ auf der Seite „Zahlungsausgleich“.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Get Bank Stmt. Line Candidates - NamedType DisableAutomaticSuggestionsNotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1072710964 - NamedType 450345902" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do not show again</source>
+          <target state="translated">Nicht mehr anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Get Bank Stmt. Line Candidates - NamedType DontShowAgainTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1075944424 - NamedType 1562034818" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type %1 is not supported.</source>
+          <target state="translated">Typ %1 wird nicht unterstützt.</target>
+          <note from="Developer" annotates="general" priority="2">Line or Document type</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Doc. From Sales Doc. - NamedType TypeNotSupportedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1075944424 - NamedType 2264184368" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Select a vendor</source>
+          <target state="translated">Einen Kreditor auswählen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Doc. From Sales Doc. - NamedType SelectVentorTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1075944424 - NamedType 3393787190" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No purchase orders are created.</source>
+          <target state="translated">Keine Bestellungen erstellt.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Doc. From Sales Doc. - NamedType NoPurchaseOrdersCreatedErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1075944424 - NamedType 4289073987" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>A purchase invoice will be created. Select which sales invoice lines to use.</source>
+          <target state="translated">Eine Einkaufsrechnung wird erstellt. Wählen Sie aus, welche Verkaufsrechnungszeilen verwendet werden sollen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Doc. From Sales Doc. - NamedType CreatePurchInvInstructionTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1075944424 - NamedType 757525096" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All Lines,Selected Lines</source>
+          <target state="translated">Alle Zeilen,Ausgewählte Zeilen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purch. Doc. From Sales Doc. - NamedType CreatePurchInvOptionQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1079040601 - NamedType 1860341521" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot set up the add-in because the %1 Server instance is not configured to use Secure Sockets Layer (SSL), or the Web Client Base URL is not defined in the server configuration.</source>
+          <target state="translated">Das Add-in kann nicht eingerichtet werden, weil die %1-Serverinstanz nicht für die Verwendung von Secure Sockets Layer (SSL) konfiguriert ist oder die Webclient-Basis-URL nicht in der Serverkonfiguration definiert ist.</target>
+          <note from="Developer" annotates="general" priority="2">%1=product name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Add-in Manifest Management - NamedType WebClientHttpsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1079040601 - NamedType 1910568027" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cannot find an XML node that matches %1.</source>
+          <target state="translated">Kann keinen XML-Knoten finden, der mit %1 übereinstimmt.</target>
+          <note from="Developer" annotates="general" priority="2">%1=XML node name</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Add-in Manifest Management - NamedType MissingNodeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1079040601 - NamedType 3359291336" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Microsoft</source>
+          <target state="translated">Microsoft</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Add-in Manifest Management - NamedType MicrosoftTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1079040601 - NamedType 3376334855" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>OutlookAddins.zip</source>
+          <target state="translated">OutlookAddins.zip</target>
+          <note from="Developer" annotates="general" priority="2">Name of the zip file containing Outlook Addin manifest files.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Add-in Manifest Management - NamedType ManifestZipFileNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1079040601 - NamedType 3759042548" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You have specified a node of type %1. This type is not supported.</source>
+          <target state="translated">Sie haben einen Knoten vom Typ „%1“ angegeben. Dieser Typ wird nicht unterstützt.</target>
+          <note from="Developer" annotates="general" priority="2">%1 = The type of XML node.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Add-in Manifest Management - NamedType UnsupportedNodeTypeErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 109281771 - NamedType 2476940767" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item %1 is not a BOM.</source>
+          <target state="translated">Artikel %1 ist keine Stückliste.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Item Jnl.-Explode BOM - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 109281771 - NamedType 3752334001" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>There is not enough space to explode the BOM.</source>
+          <target state="translated">Es ist nicht genügend Platz, um die Stückliste zu entfalten.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Item Jnl.-Explode BOM - NamedType Text002</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 109281771 - NamedType 95063322" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Copy dimensions from BOM,&amp;Retrieve dimensions from components</source>
+          <target state="translated">Dimensionen von Stückliste &amp;kopieren,Dimensionen von Komponenten &amp;übernehmen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Item Jnl.-Explode BOM - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1098941963 - NamedType 2476044046" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>County</source>
+          <target state="translated">Kanton</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit County CaptionClass Mgmt - NamedType CountyTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1106217178 - NamedType 1370456556" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>You are now in the %1 journal.</source>
+          <target state="translated">Sie arbeiten im Erf.-Journal %1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Job Jnl.-Post+Print - NamedType Text005</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1106217178 - NamedType 2476940767" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>cannot be filtered when posting recurring journals.</source>
+          <target state="translated">kann nicht gefiltert werden, wenn wiederkehrende Erfassungsjournale gebucht werden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Job Jnl.-Post+Print - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1106217178 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to post the journal lines and print the posting report?</source>
+          <target state="translated">Möchten Sie die Erfassungsjournalzeilen buchen und den Buchungsbericht drucken?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Job Jnl.-Post+Print - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1106217178 - NamedType 732759939" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted. </source>
+          <target state="translated">Die Erfassungsjournalzeilen sind gebucht worden. </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Job Jnl.-Post+Print - NamedType Text004</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1106217178 - NamedType 95063322" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The journal lines were successfully posted.</source>
+          <target state="translated">Die Erfassungsjournalzeilen sind gebucht worden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Job Jnl.-Post+Print - NamedType Text003</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1109219546 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No input Node found.</source>
+          <target state="translated">Kein Eingabeknoten gefunden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Miniform Logoff - NamedType Text001</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 146270248" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Resend now</source>
+          <target state="translated">Jetzt erneut übermitteln</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType ResendForegroundActionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 1595983284" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ignore</source>
+          <target state="translated">Ignorieren</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType IgnoreTheseFailuresActionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 2052643550" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Some documents could not be sent.</source>
+          <target state="translated">Einige Belege konnten nicht gesendet werden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType SomeDocumentsFailedMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 3164847337" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The last email about this document could not be sent. %1</source>
+          <target state="translated">Die letzte E-Mail für diesen Beleg konnte nicht gesendet werden. %1</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Additional error information</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType EmailFailedGenericMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 3297974865" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To resend this document, use the action in the document page.</source>
+          <target state="translated">Verwenden Sie die Aktivität auf der Dokumentenseite, um dieses Dokument erneut zu senden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType ResendDocumentFromUIMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 3638167715" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The invoice was succesfully sent.</source>
+          <target state="translated">Die Rechnung wurde erfolgreich gesendet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType InvoiceSuccesfullyResentMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 52899429" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show documents</source>
+          <target state="translated">Belege anzeigen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType ShowDocumentsActionLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1111512598 - NamedType 838617122" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The estimate was succesfully sent.</source>
+          <target state="translated">Die Schätzung wurde erfolgreich gesendet.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit O365 Document Send Mgt - NamedType EstimateSuccesfullyResentMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1112493455 - NamedType 2476940767" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BOM phantom structure for %1 is higher than 50 levels.</source>
+          <target state="translated">Phantomstücklistenstruktur von %1 hat mehr als 50 Ebenen.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Calculate Prod. Order - NamedType Text000</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1112493455 - NamedType 3114637384" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1 %2 %3 can not be calculated, if at least one %4 has been posted.</source>
+          <target state="translated">%2 %3 mit dem Status %1 kann nicht berechnet werden, wenn ein oder mehrere %4 gebucht wurden.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Calculate Prod. Order - NamedType Text001</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
